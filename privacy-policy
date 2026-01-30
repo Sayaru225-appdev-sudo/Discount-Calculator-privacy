@@ -1,46 +1,35 @@
 Privacy Policy for Discount Calculator: Smarter Shopping
-Last Updated: 19th January 2025
+Last Updated: 30th Jan 2026
 
-This Privacy Policy explains how Discount Calculator: Smarter Shopping ("we," "our," or "the app") handles your information. We are committed to protecting your privacy and operating with transparency. The core principle is: your data stays on your device.
+This Privacy Policy explains how Discount Calculator: Smarter Shopping ("we," "our," or "the app") handles your information. We are committed to protecting your privacy and operating with transparency. The core principle is: your data stays on your device whenever possible.
 
 1. Information Collection and Use
-
 Our app is designed with privacy in mind:
 
-Local-Only Storage: The app may store preferences you set (such as language or theme choice between dark/light mode) locally on your device using the Hive database. This information is never transmitted to us or any external server. It is used solely to preserve your settings between app sessions.
+Local-Only Storage: The app uses the Hive database to store preferences locally on your device. Only two types of settings are saved: your choice of dark or light mode, and your language preference. This information is never transmitted to us or any external server. It is used solely to preserve your settings between app sessions.
 
 No Personal Data Collection: We do not collect, transmit, or have access to any personally identifiable information (like your name, email, or device ID) for the app's core functionality.
 
-2. Third-Party Services (Future Consideration)
-
-The current version of the app does not integrate any third-party analytics or advertising services. However, to support future development, we may consider integrating the following service:
-
-Google AdMob: In a future update, we may integrate Google AdMob to display advertisements. If implemented, AdMob may collect and use data according to its own privacy policy to serve personalized or non-personalized ads. You will be notified within the app and this policy will be updated prior to such integration. You can review Google's Privacy Policy for AdMob here: https://policies.google.com/privacy.
+2. Third-Party Services
+The app integrates Google AdMob to display advertisements. AdMob may collect and use data according to its own privacy policy to serve personalized or non-personalized ads. This may include information such as device identifiers, location data, and interest-based advertising data. We do not control the data collected by AdMob. You can review Google's Privacy Policy for AdMob here: https://policies.google.com/privacy.
 
 3. Log Data
-
-Currently, the app does not automatically collect error logs or diagnostic data. In the event of a future implementation for crash reporting (e.g., via a service like Firebase Crashlytics), this section will be updated to detail what anonymous data is collected.
+In connection with the use of AdMob, some anonymous log data may be collected for advertising purposes, such as ad impressions and clicks. We do not collect additional diagnostic data unless explicitly stated in future updates.
 
 4. Cookies
-
-This app does not use "cookies" in the traditional web browser sense. Any local storage (via Hive) is for functional app settings only and cannot track you across other apps or websites.
+This app does not use "cookies" in the traditional web browser sense. However, AdMob may use similar technologies for advertising. Any local storage via Hive is for functional app settings only and cannot track you across other apps or websites.
 
 5. Security
-
-Since your data is stored locally on your device, its security is also tied to your device's security. We recommend you use standard security practices to protect your device and the information on it.
+Since your app settings are stored locally on your device, its security is tied to your device's security. We recommend you use standard security practices to protect your device. For data collected by AdMob, please refer to Google's security practices.
 
 6. Links to Other Sites
-
 The app may contain links to external websites (e.g., developer website, support page). If you click a link, you will be directed to that site. We have no control over and assume no responsibility for the content or practices of any third-party sites.
 
 7. Children’s Privacy
-
-Our app does not address anyone under the age of 13. We do not knowingly collect any information from children under 13.
+Our app does not address anyone under the age of 13. We do not knowingly collect any information from children under 13. However, AdMob may have its own policies regarding children's privacy.
 
 8. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page. Significant changes (like adding AdMob) will be highlighted in app update notes.
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page. Significant changes will be highlighted in app update notes.
 
 9. Contact Us
-
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: sayaru225.dev@gmail.com
