@@ -1,35 +1,41 @@
-Privacy Policy for Discount Calculator: Smarter Shopping
-Last Updated: 30th Jan 2026
+Discount Calculator: Smart Shopping Privacy Policy
+Effective Date: January 30, 2026
 
-This Privacy Policy explains how Discount Calculator: Smarter Shopping ("we," "our," or "the app") handles your information. We are committed to protecting your privacy and operating with transparency. The core principle is: your data stays on your device whenever possible.
+Thank you for using "Discount Calculator: Smart Shopping" (hereinafter referred to as "the App"). We understand the importance of privacy and are committed to protecting your information transparently. The core design principle of this App is: All possible data is prioritized to be stored locally on your device.
 
-1. Information Collection and Use
-Our app is designed with privacy in mind:
+1. How We Handle Your Information (Core Principle)
+The core functionality of this App (calculating discounts) does not require nor collect any personally identifiable information (such as name, email address, device ID, etc.). To enhance your user experience, this App only saves the following two settings locally on your device:
 
-Local-Only Storage: The app uses the Hive database to store preferences locally on your device. Only two types of settings are saved: your choice of dark or light mode, and your language preference. This information is never transmitted to us or any external server. It is used solely to preserve your settings between app sessions.
+Theme Preference: Dark or Light Mode.
+Language Preference.
+These settings are stored via a local database (Hive) and are used solely to restore your preferences each time you open the App. They are never sent to us or any external server.
 
-No Personal Data Collection: We do not collect, transmit, or have access to any personally identifiable information (like your name, email, or device ID) for the app's core functionality.
+2. Third-Party Advertising Services
+To support the free operation of this App, we have integrated the Google AdMob advertising service. AdMob collects and uses data in accordance with its own privacy policy to display personalized or non-personalized ads to you. This data may include device identifiers, approximate location information, and advertising interaction data.
 
-2. Third-Party Services
-The app integrates Google AdMob to display advertisements. AdMob may collect and use data according to its own privacy policy to serve personalized or non-personalized ads. This may include information such as device identifiers, location data, and interest-based advertising data. We do not control the data collected by AdMob. You can review Google's Privacy Policy for AdMob here: https://policies.google.com/privacy.
+Important Note: We have no control over the data collected by AdMob. This data collection and processing activity is conducted independently by Google. We encourage you to read Google's privacy policy for details: https://policies.google.com/privacy.
 
 3. Log Data
-In connection with the use of AdMob, some anonymous log data may be collected for advertising purposes, such as ad impressions and clicks. We do not collect additional diagnostic data unless explicitly stated in future updates.
+Related to the AdMob service, anonymous advertising log data (such as ad impressions and clicks) may be generated and collected for ad delivery and analytical purposes. Beyond this, the App currently does not actively collect any diagnostic or usage logs.
 
-4. Cookies
-This app does not use "cookies" in the traditional web browser sense. However, AdMob may use similar technologies for advertising. Any local storage via Hive is for functional app settings only and cannot track you across other apps or websites.
+4. Cookies & Similar Technologies
+The App itself does not use traditional web browser cookies. However, as mentioned above, AdMob may use advertising IDs or similar technologies for ad delivery. The local storage (Hive) within the App is used only for the aforementioned functional settings and does not have the ability to track you across apps or websites.
 
-5. Security
-Since your app settings are stored locally on your device, its security is tied to your device's security. We recommend you use standard security practices to protect your device. For data collected by AdMob, please refer to Google's security practices.
+5. Data Security
+
+Local Data: Your app preference settings are stored locally on the device. Their security is directly tied to the security of your device itself. We recommend you take common device security measures (such as setting a screen lock).
+
+Advertising Data: For data processed by AdMob, its security practices are governed by Google's privacy and security policies.
 
 6. Links to Other Sites
-The app may contain links to external websites (e.g., developer website, support page). If you click a link, you will be directed to that site. We have no control over and assume no responsibility for the content or practices of any third-party sites.
+The App may contain links to third-party websites (such as the developer's website). Please note that these sites are not under our control, and their content and privacy practices are not associated with us. Please review the privacy policies of any third-party sites before accessing them.
 
-7. Children’s Privacy
-Our app does not address anyone under the age of 13. We do not knowingly collect any information from children under 13. However, AdMob may have its own policies regarding children's privacy.
+7. Children's Privacy
+This App is not designed for children under the age of 13, and we do not knowingly collect any information from such users. Regarding advertising, AdMob has its own policies concerning children.
 
 8. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page. Significant changes will be highlighted in app update notes.
+We may update this Privacy Policy from time to time. The updated policy will be posted on this page, and the "Effective Date" will be revised accordingly. For significant changes, we will provide notice in the App's update notes. We advise you to review this page periodically for any changes.
 
 9. Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: sayaru225.dev@gmail.com
+If you have any questions or suggestions regarding this Privacy Policy, please feel free to contact us via email at:
+sayaru225.dev@gmail.com
